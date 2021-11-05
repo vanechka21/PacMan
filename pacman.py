@@ -32,6 +32,8 @@ def draw():
     pass
 
 def change_direction(button):
+    global pos
+    pos = (9, 0)
     # считывает нажатие кнопки и меняет направление пакмана
     pass
 
