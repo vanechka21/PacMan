@@ -1,5 +1,5 @@
 ghost_mode = None
-
+ghost_arr=[0,0]
 
 def draw():
     # отрисовка всех привидений
