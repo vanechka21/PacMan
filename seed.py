@@ -1,13 +1,12 @@
-positions = []
+grains = [[0, 0], [0, 0]]  # матрица зерен(чтобы не перепутать с seed другое название(хз нужно ли это))
+count = 0
 
-# хра
-
-def start():
-    # read from field
 
 def draw():
-    #iterate
+    # отрисовка всех зерен
+    raise NotImplemented
 
-def check():
-    #iterate
 
+def delete_seed():
+    # удалаем зерно
+    raise NotImplemented
